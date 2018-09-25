@@ -1,0 +1,9 @@
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\bin\Debug\FormsApplication1.exe.config
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\obj\Debug\FormsApplication1.csprojResolveAssemblyReference.cache
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\obj\Debug\FormsApplication1.Form1.resources
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\obj\Debug\FormsApplication1.Properties.Resources.resources
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\obj\Debug\FormsApplication1.csproj.GenerateResource.Cache
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\bin\Debug\FormsApplication1.exe
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\bin\Debug\FormsApplication1.pdb
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\obj\Debug\FormsApplication1.exe
+D:\Semester 3\nenes\Calculatorapp\FormsApplication1\obj\Debug\FormsApplication1.pdb
